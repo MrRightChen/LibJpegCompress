@@ -1,0 +1,4 @@
+关于libturbojpeg.a库说明：
+1、NDK版本：android-ndk-r19c
+2、libturbojpeg版本：2.0.2
+3、libturbojpeg.a支持Android最小版本：18
